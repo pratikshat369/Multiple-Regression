@@ -23,3 +23,5 @@ Git merge -m "" branch_name
 what if there are changes in the main branch as well?
 
 git push --all -> To push all my branches
+
+Commit directly from GitHub
