@@ -2,3 +2,4 @@ Hello, I got my LexiwsNexis Risk Solutions Data Science Internship
 
 
 git restore --staged file_name -> To retore from staged file to local
+git log -> to view all the commits you have made
