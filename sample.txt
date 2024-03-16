@@ -21,3 +21,5 @@ Okay, I am making some changes now to the new branch
 Git merge -m "" branch_name
 
 what if there are changes in the main branch as well?
+
+git push --all -> To push all my branches
