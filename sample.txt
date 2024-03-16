@@ -25,3 +25,7 @@ what if there are changes in the main branch as well?
 git push --all -> To push all my branches
 
 Commit directly from GitHub
+
+Git Fetch -> To fetch all the new changes
+
+Git Pull -> To pull in any new changes made
