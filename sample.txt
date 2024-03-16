@@ -15,3 +15,5 @@ Branch - a copy of your main branch - you can fix a bug and make it in this bran
 git branch name_of_the_branch -> to create a new branch
 git branch -> to view all your branches
 git switch branch_name -> to switch the branch
+
+Okay, I am making some changes now to the new branch
