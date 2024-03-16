@@ -17,3 +17,5 @@ git branch -> to view all your branches
 git switch branch_name -> to switch the branch
 
 Okay, I am making some changes now to the new branch
+
+Git merge -m "" branch_name
