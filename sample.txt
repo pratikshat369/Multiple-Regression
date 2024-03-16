@@ -18,3 +18,5 @@ git switch branch_name -> to switch the branch
 
 Changing the branch -> Does this work?
 Checking again?
+
+I am switching to branch 2
